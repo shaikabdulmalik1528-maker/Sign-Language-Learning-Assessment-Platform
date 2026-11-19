@@ -13,6 +13,18 @@ An AI-powered **Sign Language Learning & Assessment Platform** that leverages **
 
 ---
 
+## 🚀 Live Demo
+
+**Experience the Sign Language Learning & Assessment Platform**
+
+🌐 **Live Application:** [Launch Sign Language Platform](https://sign-ease-attractive-flow.base44.app/login)
+
+💻 **GitHub Source Code:** [View Source Code](https://github.com/shaikabdulmalik1528-maker/Sign-Language-Learning-Assessment-Platform)
+
+Explore the platform's sign language learning and assessment experience through the live application.
+
+---
+
 # 📖 Project Overview
 
 The Sign Language Learning & Assessment Platform combines **MediaPipe**, **OpenCV**, and **FastAPI** to detect hand landmarks, process gesture data, and provide AI-powered sign language predictions.
